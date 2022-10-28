@@ -1,3 +1,4 @@
+# Code to generate Figure 4.b
 import numpy as np
 import scipy.linalg as la
 from scipy.optimize import fsolve
