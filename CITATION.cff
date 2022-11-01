@@ -1,12 +1,9 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: Quasi Riemannian Newton Policy Optimization (QRNPO)
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
-type: software
+type: misc
 authors:
   - given-names: Shahriar
     name-particle: Talebi
@@ -17,3 +14,6 @@ authors:
     name-particle: Mesbahi
     email: Mesbahi@uw.edu
     affiliation: University of Washington
+version: 1.0.0
+doi: shahriarta/QRNPO
+date-released: 2022-11-01
